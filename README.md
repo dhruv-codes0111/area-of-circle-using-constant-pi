@@ -1,6 +1,6 @@
 // 9. Symbolic constant Pi & area of circle
 #include <stdio.h>
-#define PI 3.14159
+const float PI 3.14159
 int main() {
     float r, area;
     printf("Enter radius: ");
